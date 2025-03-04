@@ -1,5 +1,5 @@
-import DummyRequestModel from "../../../domain/models/requests/updatePaymentRequestModel";
-import DummyResponseModel from "../../../domain/models/responses/updateAttendanceResponseModel";
+import DummyRequestModel from "../../../domain/models/requests/dummyPaymentRequestModel";
+import DummyResponseModel from "../../../domain/models/responses/dummyAttendanceResponseModel";
 import { ApiEnvironment } from "../../apiEnvironment/apiEnvironment";
 
 class ApiService extends ApiRepository {

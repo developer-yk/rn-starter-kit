@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-stack-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native template with pre-configured project structure, Stack Navigation, and Redux Toolkit for efficient state management. Ideal for quickly setting up scalable mobile applications.",
   "keywords": [
     "react-native",
